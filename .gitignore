@@ -1,6 +1,7 @@
 /.cache
 /.dbus
 /.gstreamer-0.10
+/.npm
 /.themes
 /.xsession-errors
 /.xsession-errors.old
