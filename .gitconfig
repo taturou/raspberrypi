@@ -8,3 +8,5 @@
 	b = branch
 	co = commit
 	l = log
+	d = diff
+	ch = checkout
