@@ -389,6 +389,21 @@
     }
    }
   },
+  "node-red-contrib-azureiothubnode": {
+   "name": "node-red-contrib-azureiothubnode",
+   "version": "0.0.5",
+   "nodes": {
+    "azureiothubnode": {
+     "name": "azureiothubnode",
+     "types": [
+      "azureiothub"
+     ],
+     "enabled": true,
+     "module": "node-red-contrib-azureiothubnode",
+     "file": "/usr/lib/node_modules/node-red-contrib-azureiothubnode/azureiothub/azureiothub.js"
+    }
+   }
+  },
   "node-red-contrib-ibm-watson-iot": {
    "name": "node-red-contrib-ibm-watson-iot",
    "version": "0.2.6",
