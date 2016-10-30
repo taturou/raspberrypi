@@ -1,0 +1,16 @@
+/.cache
+/.dbus
+/.gstreamer-0.10
+/.themes
+/.xsession-errors
+/.xsession-errors.old
+/Desktop
+/Documents
+/Downloads
+/Music
+/Pictures
+/Public
+/Templates
+/Videos
+/python_games
+*.swp
