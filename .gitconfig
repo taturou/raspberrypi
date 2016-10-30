@@ -1,0 +1,10 @@
+[user]
+	email = taturou@gmail.com
+	name = taturou
+[core]
+	editor = /usr/bin/vi
+[alias]
+	s = status
+	b = branch
+	co = commit
+	l = log
